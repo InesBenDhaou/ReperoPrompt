@@ -5,10 +5,10 @@ This is my first application built with Next.js, where I learned the fundamental
 
 ## 🌟 Key Features
 
-✅ Google authentication with NextAuth
-✅ Create, share, and explore AI prompts
-✅ Secure data storage with MongoDB
-✅ Responsive and optimized UI
+✅ Google authentication with NextAuth<br/>
+✅ Create, share, and explore AI prompts<br/>
+✅ Secure data storage with MongoDB<br/>
+✅ Responsive and optimized UI<br/>
 
 
 ## 🛠️ Technologies Used
